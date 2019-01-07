@@ -1,0 +1,22 @@
+@charset 'utf-8';
+
+//header
+.header-bar::after {
+  border-bottom: 1px solid #fff !important;
+}
+
+.el-collapse-item__content {
+  padding-left: 50px;
+}
+
+.el-collapse {
+  border-top: none;
+}
+
+.blockTop .header-left span {
+  font-weight: 700;
+}
+
+.el-collapse-item__header {
+  position: relative;
+}

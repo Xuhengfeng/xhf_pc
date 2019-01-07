@@ -1,0 +1,20 @@
+.wrapContent{
+  .blockTop{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    background: #fff;
+  }
+  height: 100%;
+  .mainContent{
+    overflow: auto;
+    height: calc(100% - 110px);
+    background: #fff;
+    padding-left: 20px;
+  }
+  .blockBottom{
+    padding: 10px 0;
+    padding-left: 20px;
+    text-align: center;
+    background: #fff;
+  }
+}
